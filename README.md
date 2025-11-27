@@ -13,7 +13,6 @@ A proposta é entender padrões logísticos, como tempo de preparo, distância, 
 - NumPy
 - Scikit-Learn
 - Matplotlib
-- Seaborn
 - Jupyter Notebook
 
 ## Estrutura Atual
